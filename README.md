@@ -147,7 +147,5 @@ Os arquivos traduzidos serão salvos na pasta `traducoes/saida`.
 
 ## **7. Conclusão**
 
-Seguindo estes passos, é possível automatizar a tradução de arquivos `.po` utilizando **LibreTranslate** e **Python**. O processo pode ser expandido para suportar mais idiomas e otimizado conforme a necessidade.
-
 Se houver dúvidas ou problemas, verifique se o servidor do **LibreTranslate** está ativo e se as bibliotecas Python estão corretamente instaladas.
 
